@@ -1,4 +1,22 @@
-### Hi there 👋
+Hi there 👋
+
+My name is Akhil Soman. 
+I am a mobile application developer with 6+ years of experience with working with Android(5 Years) and Flutter(1.5 Years).
+
+Some of the UIs that I created with Flutter are shown below.
+[Reflectly Clone](https://github.com/akhilsomanvs/flutter_reflectly_clone)
+![](ref_clone_1.gif)
+![](ref_clone_2.gif)
+![](ref_clone_3.gif)
+
+[Mirrored Loading UI](https://github.com/akhilsomanvs/flutter_mirrored_loading_ui)
+![](mirrored_loading.gif)
+
+[LightCone BottomBar UI](https://github.com/akhilsomanvs/flutter_LightConeBottomBarUI)
+![](lightcone_bottom_navbar.gif)
+
+[Music Player](https://github.com/akhilsomanvs/music_player)
+![](music_player.gif)
 
 <!--
 **akhilsomanvs/akhilsomanvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

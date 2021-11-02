@@ -7,21 +7,22 @@ Some of the UIs that I created with Flutter are shown below.
 
 [Reflectly Clone](https://github.com/akhilsomanvs/flutter_reflectly_clone)
 
-![](ref_clone_1.gif)
-![](ref_clone_2.gif)
+
 ![](ref_clone_3.gif)
+![](ref_clone_2.gif)
+![](ref_clone_1.gif)
 
-[Mirrored Loading UI](https://github.com/akhilsomanvs/flutter_mirrored_loading_ui)
+[Music Player](https://github.com/akhilsomanvs/music_player)
 
-![](mirrored_loading.gif)git 
+![](music_player.gif)
 
 [LightCone BottomBar UI](https://github.com/akhilsomanvs/flutter_LightConeBottomBarUI)
 
 ![](lightcone_bottom_navbar.gif)
 
-[Music Player](https://github.com/akhilsomanvs/music_player)
+[Mirrored Loading UI](https://github.com/akhilsomanvs/flutter_mirrored_loading_ui)
 
-![](music_player.gif)
+![](mirrored_loading.gif)git 
 
 <!--
 **akhilsomanvs/akhilsomanvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

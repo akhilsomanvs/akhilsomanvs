@@ -1,7 +1,7 @@
 Hi there 👋
 
 My name is Akhil Soman. 
-I am a mobile application developer with 6+ years of experience with working with Android(5 Years) and Flutter(~2 Years).
+I am a mobile application developer with 7 years of experience with working with Android(4 Years) and Flutter(3 Years).
 
 You can view my [portfolio site](https://akhilsomanvs.github.io/#/)(Not responsive)
 
